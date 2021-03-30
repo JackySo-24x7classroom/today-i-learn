@@ -15,4 +15,8 @@
 ## shell
 
 * [Setup shell command alias](https://github.com/JackySo-24x7classroom/today-i-learn/blob/main/shell/alias.md) - 2021-03-30
+
+## python
+
+* [Create Tables in Python programming - introduce and taste tabulate](https://github.com/JackySo-24x7classroom/today-i-learn/blob/main/python/tabulate-table.md) - 2021-03-30
 <!-- index ends -->
