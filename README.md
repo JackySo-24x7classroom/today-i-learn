@@ -7,6 +7,7 @@
 
 * [Use private key to run git command](https://github.com/JackySo-24x7classroom/today-i-learn/blob/main/github/private-key.md) - 2021-03-30
 * [Add github action workflow status badge](https://github.com/JackySo-24x7classroom/today-i-learn/blob/main/github/action-badge.md) - 2021-03-30
+* [collapsible markdown](https://github.com/JackySo-24x7classroom/today-i-learn/blob/main/github/collapsible.md) - 2021-03-31
 
 ## k8s
 
