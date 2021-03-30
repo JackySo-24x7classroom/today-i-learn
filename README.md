@@ -15,4 +15,8 @@
 ## python
 
 * [Create Tables in Python](https://github.com/JackySo-24x7classroom/today-i-learn/blob/main/python/table.md) - 2021-03-30
+
+## shell
+
+* [Setup shell command alias](https://github.com/JackySo-24x7classroom/today-i-learn/blob/main/shell/alias.md) - 2021-03-30
 <!-- index ends -->
