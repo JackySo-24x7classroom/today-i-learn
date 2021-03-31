@@ -9,7 +9,7 @@
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-AWSCLI-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/CICD-github_action-informational?style=flat&logo=eclipse&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/CICD-github_action-informational?style=flat&logo=github&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/CICD-buildkite-informational?style=flat&logo=cicd&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/CICD-Jenkins-informational?style=flat&logo=cicd&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/CICD-CodePipeline-informational?style=flat&logo=cicd&logoColor=white&color=2bbc8a)
