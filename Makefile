@@ -12,4 +12,4 @@ help: $(MAKEFILE)
 	@echo
 
 fetch-gist: ## Fetch gist content from list and save into selected directory
-	@(PS3="Input your folder choice to store or cltr-C to quit: "; select DIR in `find . -maxdepth 1 -not -name ".*" -type d | awk -F'./' '{ print $$2 }'`; do (gh gist list; PS3="Input your gist choice to view or cltr-C to quit: "; select opt in `gh gist list | awk '{ print $$1 }'`; do FILE=`gh gist view --files $${opt}`; gh gist view -r $${opt} > $${DIR}/$${FILE}; break; done); break; done)
+	@(PS3="Input your folder choice to store or cltr-C to quit: "; select DIR in `find . -maxdepth 1 -not -name ".*" -type d | awk -F'./' '{ print $$2 }'`; do (gh gist list; PS3="Input your gist choice to view or cltr-C to quit: "; select opt in `gh gist list | awk '{ print $$1 }'`; do FILE=`gh gist view --files $${opt}`; gh gist view -r $${opt} -f $${FILE} > $${DIR}/$${FILE}; break; done); break; done)
