@@ -43,8 +43,4 @@
 ## python
 
 * [Create Tables in Python programming - introduce and taste tabulate](https://github.com/JackySo-24x7classroom/today-i-learn/blob/main/python/tabulate-table.md) - 2021-03-30
-
-## automation
-
-* ["Files: on-demand-include.md"](https://github.com/JackySo-24x7classroom/today-i-learn/blob/main/automation/on-demand-include.md) - 2021-03-31
 <!-- index ends -->
