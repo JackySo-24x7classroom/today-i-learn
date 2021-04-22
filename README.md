@@ -32,6 +32,7 @@
 * [Add github action workflow status badge](https://github.com/JackySo-24x7classroom/today-i-learn/blob/main/github/action-badge.md) - 2021-03-30
 * [collapsible markdown](https://github.com/JackySo-24x7classroom/today-i-learn/blob/main/github/collapsible.md) - 2021-03-31
 * [Install VIM plugin vim-markdown-toc through VIM manager Vundle](https://github.com/JackySo-24x7classroom/today-i-learn/blob/main/github/vim-plugin.md) - 2021-04-13
+* [Analysis code changes in git repository](https://github.com/JackySo-24x7classroom/today-i-learn/blob/main/github/git-investigation.md) - 2021-04-22
 
 ## k8s
 
@@ -48,4 +49,8 @@
 ## automation
 
 * [On-demand include in Makefile](https://github.com/JackySo-24x7classroom/today-i-learn/blob/main/automation/on-demand-include.md) - 2021-03-31
+
+## golang
+
+* [Useful dependency management tips for Golang](https://github.com/JackySo-24x7classroom/today-i-learn/blob/main/golang/golang.md) - 2021-04-21
 <!-- index ends -->
