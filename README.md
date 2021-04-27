@@ -53,4 +53,12 @@
 ## golang
 
 * [Useful dependency management tips for Golang](https://github.com/JackySo-24x7classroom/today-i-learn/blob/main/golang/golang.md) - 2021-04-21
+
+## javascript
+
+* [Learning Javascript - Best practices](https://github.com/JackySo-24x7classroom/today-i-learn/blob/main/javascript/learning-javascript.md) - 2021-04-27
+
+## serverless
+
+* [Build pillow archive for Lambda use](https://github.com/JackySo-24x7classroom/today-i-learn/blob/main/serverless/pillow.md) - 2021-04-27
 <!-- index ends -->
