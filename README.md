@@ -53,6 +53,8 @@
 ## golang
 
 * [Useful dependency management tips for Golang](https://github.com/JackySo-24x7classroom/today-i-learn/blob/main/golang/golang.md) - 2021-04-21
+* [Diagram as code - Go program to generate diagrams](https://github.com/JackySo-24x7classroom/today-i-learn/blob/main/golang/go-diagram.md) - 2021-04-29
+* [Creating a Microservice in Go](https://github.com/JackySo-24x7classroom/today-i-learn/blob/main/golang/go-microservice.md) - 2021-04-29
 
 ## javascript
 
