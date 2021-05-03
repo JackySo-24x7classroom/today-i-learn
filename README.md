@@ -46,6 +46,7 @@
 
 * [Create Tables in Python programming - introduce and taste tabulate](https://github.com/JackySo-24x7classroom/today-i-learn/blob/main/python/tabulate-table.md) - 2021-03-30
 * [Track and Visualize the Execution of your Python Code](https://github.com/JackySo-24x7classroom/today-i-learn/blob/main/python/track-python.md) - 2021-05-02
+* [Python - some useful tools](https://github.com/JackySo-24x7classroom/today-i-learn/blob/main/python/python-tools.md) - 2021-05-03
 
 ## automation
 
