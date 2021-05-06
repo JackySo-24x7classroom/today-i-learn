@@ -66,4 +66,8 @@
 
 * [Build pillow archive for Lambda use](https://github.com/JackySo-24x7classroom/today-i-learn/blob/main/serverless/pillow.md) - 2021-04-27
 * [Create an AWS Lambda Layer for Python Runtime](https://github.com/JackySo-24x7classroom/today-i-learn/blob/main/serverless/lambda-layer.md) - 2021-04-30
+
+## aws
+
+* [Getting Started with Amazon Redshift](https://github.com/JackySo-24x7classroom/today-i-learn/blob/main/aws/redshift.md) - 2021-05-06
 <!-- index ends -->
