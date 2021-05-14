@@ -70,4 +70,8 @@
 ## aws
 
 * [Getting Started with Amazon Redshift](https://github.com/JackySo-24x7classroom/today-i-learn/blob/main/aws/redshift.md) - 2021-05-06
+
+## markdown
+
+* [Markdown tips - Links in code blocks](https://github.com/JackySo-24x7classroom/today-i-learn/blob/main/markdown/link-in-code-block.md) - 2021-05-14
 <!-- index ends -->
