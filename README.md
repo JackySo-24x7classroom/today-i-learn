@@ -74,4 +74,8 @@
 ## markdown
 
 * [Markdown tips - Links in code blocks](https://github.com/JackySo-24x7classroom/today-i-learn/blob/main/markdown/link-in-code-block.md) - 2021-05-14
+
+## datascience
+
+* [Run Github located Jupyter Notebook in Google Colab](https://github.com/JackySo-24x7classroom/today-i-learn/blob/main/datascience/run-github-notebook-colab.md) - 2021-05-18
 <!-- index ends -->
