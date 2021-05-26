@@ -55,12 +55,14 @@
 ## golang
 
 * [Useful dependency management tips for Golang](https://github.com/JackySo-24x7classroom/today-i-learn/blob/main/golang/golang.md) - 2021-04-21
-* [Diagram as code - Go program to generate diagrams](https://github.com/JackySo-24x7classroom/today-i-learn/blob/main/golang/go-diagram.md) - 2021-04-29
 * [Creating a Microservice in Go](https://github.com/JackySo-24x7classroom/today-i-learn/blob/main/golang/go-microservice.md) - 2021-04-29
+* [Diagram as code - Go program to generate diagrams](https://github.com/JackySo-24x7classroom/today-i-learn/blob/main/golang/go-diagram.md) - 2021-04-29
 
 ## javascript
 
 * [Learning Javascript - Best practices](https://github.com/JackySo-24x7classroom/today-i-learn/blob/main/javascript/learning-javascript.md) - 2021-04-27
+* [NodeJs HTTP server - Start and Parsing](https://github.com/JackySo-24x7classroom/today-i-learn/blob/main/javascript/nodejs-http-parsing.md) - 2021-05-26
+* [NodeJs Basic learning](https://github.com/JackySo-24x7classroom/today-i-learn/blob/main/javascript/nodejs-basic.md) - 2021-05-26
 
 ## serverless
 
