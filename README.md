@@ -63,6 +63,8 @@
 * [Learning Javascript - Best practices](https://github.com/JackySo-24x7classroom/today-i-learn/blob/main/javascript/learning-javascript.md) - 2021-04-27
 * [NodeJs HTTP server - Start and Parsing](https://github.com/JackySo-24x7classroom/today-i-learn/blob/main/javascript/nodejs-http-parsing.md) - 2021-05-26
 * [NodeJs Basic learning](https://github.com/JackySo-24x7classroom/today-i-learn/blob/main/javascript/nodejs-basic.md) - 2021-05-26
+* [Nodejs HTTPS server and Configuration](https://github.com/JackySo-24x7classroom/today-i-learn/blob/main/javascript/nodejs-https-configuration.md) - 2021-05-27
+* [Nodejs HTTP server - Add routes and return JSON output](https://github.com/JackySo-24x7classroom/today-i-learn/blob/main/javascript/nodejs-http-route-request.md) - 2021-05-27
 
 ## serverless
 
