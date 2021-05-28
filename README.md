@@ -67,6 +67,7 @@
 * [Nodejs HTTP server - Add routes and return JSON output](https://github.com/JackySo-24x7classroom/today-i-learn/blob/main/javascript/nodejs-http-route-request.md) - 2021-05-27
 * [Nodejs - Develop data library for file manipulation](https://github.com/JackySo-24x7classroom/today-i-learn/blob/main/javascript/nodejs-data.md) - 2021-05-27
 * [Nodejs - Add Ping or Healthcheck routes and handlers](https://github.com/JackySo-24x7classroom/today-i-learn/blob/main/javascript/ping-healthcheck.md) - 2021-05-27
+* [Nodejs - HTTP(S) service handlers for (GET, POST, PUT, DELETE) methods](https://github.com/JackySo-24x7classroom/today-i-learn/blob/main/javascript/nodejs-handlers.md) - 2021-05-28
 
 ## serverless
 
