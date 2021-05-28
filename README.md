@@ -57,6 +57,7 @@
 * [Useful dependency management tips for Golang](https://github.com/JackySo-24x7classroom/today-i-learn/blob/main/golang/golang.md) - 2021-04-21
 * [Creating a Microservice in Go](https://github.com/JackySo-24x7classroom/today-i-learn/blob/main/golang/go-microservice.md) - 2021-04-29
 * [Diagram as code - Go program to generate diagrams](https://github.com/JackySo-24x7classroom/today-i-learn/blob/main/golang/go-diagram.md) - 2021-04-29
+* [Golang Unit testing - Basic tests](https://github.com/JackySo-24x7classroom/today-i-learn/blob/main/golang/go-basic-unit-tests.md) - 2021-05-28
 
 ## javascript
 
@@ -77,6 +78,7 @@
 ## aws
 
 * [Getting Started with Amazon Redshift](https://github.com/JackySo-24x7classroom/today-i-learn/blob/main/aws/redshift.md) - 2021-05-06
+* [AWS DocumentDB](https://github.com/JackySo-24x7classroom/today-i-learn/blob/main/aws/documemtdb.md) - 2021-05-28
 
 ## markdown
 
