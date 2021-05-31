@@ -72,6 +72,7 @@
 * [Nodejs - HTTP(S) service handlers for (GET, POST, PUT, DELETE) methods](https://github.com/JackySo-24x7classroom/today-i-learn/blob/main/javascript/nodejs-handlers.md) - 2021-05-28
 * [Nodejs learning - Connecting to an API](https://github.com/JackySo-24x7classroom/today-i-learn/blob/main/javascript/nodejs-connect-api.md) - 2021-05-30
 * [Nodejs learning - Logging for observability and debugging](https://github.com/JackySo-24x7classroom/today-i-learn/blob/main/javascript/nodejs-logging.md) - 2021-05-31
+* [Nodejs - Add tokens handler for authentication purpose](https://github.com/JackySo-24x7classroom/today-i-learn/blob/main/javascript/nodejs-handler-token.md) - 2021-05-31
 
 ## serverless
 
