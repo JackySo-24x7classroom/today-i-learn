@@ -37,6 +37,7 @@
 ## k8s
 
 * [etcd-backup](https://github.com/JackySo-24x7classroom/today-i-learn/blob/main/k8s/etcd-backup.md) - 2021-03-30
+* [kubectl plugins tutorial](https://github.com/JackySo-24x7classroom/today-i-learn/blob/main/k8s/kubectl-plugins.md) - 2021-06-02
 
 ## shell
 
