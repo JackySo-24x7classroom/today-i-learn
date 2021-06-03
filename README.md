@@ -75,6 +75,8 @@
 * [Nodejs learning - Logging for observability and debugging](https://github.com/JackySo-24x7classroom/today-i-learn/blob/main/javascript/nodejs-logging.md) - 2021-05-31
 * [Nodejs - Add tokens handler for authentication purpose](https://github.com/JackySo-24x7classroom/today-i-learn/blob/main/javascript/nodejs-handler-token.md) - 2021-05-31
 * [Learn Javascript - var Vs let Vs const](https://github.com/JackySo-24x7classroom/today-i-learn/blob/main/javascript/var-let-const.md) - 2021-06-01
+* [Nodejs - console log with timestamp and time ran](https://github.com/JackySo-24x7classroom/today-i-learn/blob/main/javascript/log-timestamp.md) - 2021-06-03
+* [Node version manager](https://github.com/JackySo-24x7classroom/today-i-learn/blob/main/javascript/nvm.md) - 2021-06-03
 
 ## serverless
 
