@@ -95,4 +95,8 @@
 ## datascience
 
 * [Run Github located Jupyter Notebook in Google Colab](https://github.com/JackySo-24x7classroom/today-i-learn/blob/main/datascience/run-github-notebook-colab.md) - 2021-05-18
+
+## terraform
+
+* [Terraform version manager tfenv](https://github.com/JackySo-24x7classroom/today-i-learn/blob/main/terraform/tfenv.md) - 2021-06-04
 <!-- index ends -->
