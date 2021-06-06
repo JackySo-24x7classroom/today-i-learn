@@ -100,4 +100,8 @@
 ## terraform
 
 * [Terraform version manager tfenv](https://github.com/JackySo-24x7classroom/today-i-learn/blob/main/terraform/tfenv.md) - 2021-06-04
+
+## ansible
+
+* [Ansible tutorial - Journey to use Ansible version manager avm and AWS SSM session plugin](https://github.com/JackySo-24x7classroom/today-i-learn/blob/main/ansible/ansible-avm-aws-ssm-plugin.md) - 2021-06-06
 <!-- index ends -->
