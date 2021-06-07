@@ -53,6 +53,7 @@
 ## automation
 
 * [On-demand include in Makefile](https://github.com/JackySo-24x7classroom/today-i-learn/blob/main/automation/on-demand-include.md) - 2021-03-31
+* [Task management](https://github.com/JackySo-24x7classroom/today-i-learn/blob/main/automation/tasks.md) - 2021-06-07
 
 ## golang
 
