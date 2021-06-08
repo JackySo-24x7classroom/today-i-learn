@@ -106,4 +106,9 @@
 ## ansible
 
 * [Ansible tutorial - Journey to use Ansible version manager avm and AWS SSM session plugin](https://github.com/JackySo-24x7classroom/today-i-learn/blob/main/ansible/ansible-avm-aws-ssm-plugin.md) - 2021-06-06
+
+## docker
+
+* [Generate Dockerfile from images](https://github.com/JackySo-24x7classroom/today-i-learn/blob/main/docker/Dockerfile.md) - 2021-06-09
+* [Build docker of Jupyter Data Science Stack](https://github.com/JackySo-24x7classroom/today-i-learn/blob/main/docker/docker.md) - 2021-06-09
 <!-- index ends -->
