@@ -34,6 +34,7 @@
 * [Install VIM plugin vim-markdown-toc through VIM manager Vundle](https://github.com/JackySo-24x7classroom/today-i-learn/blob/main/github/vim-plugin.md) - 2021-04-13
 * [Analysis code changes in git repository](https://github.com/JackySo-24x7classroom/today-i-learn/blob/main/github/git-investigation.md) - 2021-04-22
 * [git operation UI in console mode](https://github.com/JackySo-24x7classroom/today-i-learn/blob/main/github/gitui.md) - 2021-06-07
+* [Github - how to use various SSH keys to operate git commands](https://github.com/JackySo-24x7classroom/today-i-learn/blob/main/github/git-ssh-key.md) - 2021-06-09
 
 ## k8s
 
