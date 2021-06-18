@@ -113,4 +113,5 @@
 
 * [Build docker of Jupyter Data Science Stack](https://github.com/JackySo-24x7classroom/today-i-learn/blob/main/docker/docker.md) - 2021-06-09
 * [Generate Dockerfile from images](https://github.com/JackySo-24x7classroom/today-i-learn/blob/main/docker/Dockerfile.md) - 2021-06-09
+* [Docker scan images](https://github.com/JackySo-24x7classroom/today-i-learn/blob/main/docker/docker-scan.md) - 2021-06-18
 <!-- index ends -->
