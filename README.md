@@ -86,6 +86,7 @@
 
 * [Build pillow archive for Lambda use](https://github.com/JackySo-24x7classroom/today-i-learn/blob/main/serverless/pillow.md) - 2021-04-27
 * [Create an AWS Lambda Layer for Python Runtime](https://github.com/JackySo-24x7classroom/today-i-learn/blob/main/serverless/lambda-layer.md) - 2021-04-30
+* [Integrating Lambda Layers with the Serverless Framework](https://github.com/JackySo-24x7classroom/today-i-learn/blob/main/serverless/integrating-lambda-layers-serverless-framework.md) - 2021-06-20
 
 ## aws
 
