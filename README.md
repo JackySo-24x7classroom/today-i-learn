@@ -93,6 +93,7 @@
 * [Getting Started with Amazon Redshift](https://github.com/JackySo-24x7classroom/today-i-learn/blob/main/aws/redshift.md) - 2021-05-06
 * [AWS DocumentDB](https://github.com/JackySo-24x7classroom/today-i-learn/blob/main/aws/documemtdb.md) - 2021-05-28
 * [AWS unified CloudWatch Agent manual installation](https://github.com/JackySo-24x7classroom/today-i-learn/blob/main/aws/unified-cloudwatch-agent.md) - 2021-06-16
+* [Devops journey - AWS ECS study](https://github.com/JackySo-24x7classroom/today-i-learn/blob/main/aws/fargate.md) - 2021-06-21
 
 ## markdown
 
