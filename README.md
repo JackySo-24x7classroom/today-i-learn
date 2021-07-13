@@ -60,18 +60,24 @@
 ## golang
 
 * [Useful dependency management tips for Golang](https://github.com/JackySo-24x7classroom/today-i-learn/blob/main/golang/golang.md) - 2021-04-21
-* [Diagram as code - Go program to generate diagrams](https://github.com/JackySo-24x7classroom/today-i-learn/blob/main/golang/go-diagram.md) - 2021-04-29
 * [Creating a Microservice in Go](https://github.com/JackySo-24x7classroom/today-i-learn/blob/main/golang/go-microservice.md) - 2021-04-29
+* [Diagram as code - Go program to generate diagrams](https://github.com/JackySo-24x7classroom/today-i-learn/blob/main/golang/go-diagram.md) - 2021-04-29
 * [Golang Unit testing - Basic tests](https://github.com/JackySo-24x7classroom/today-i-learn/blob/main/golang/go-basic-unit-tests.md) - 2021-05-28
 * [Test Driven Development - Golang](https://github.com/JackySo-24x7classroom/today-i-learn/blob/main/golang/go-tdd.md) - 2021-05-29
+
+## serverless
+
+* [Build pillow archive for Lambda use](https://github.com/JackySo-24x7classroom/today-i-learn/blob/main/serverless/pillow.md) - 2021-04-27
+* [Create an AWS Lambda Layer for Python Runtime](https://github.com/JackySo-24x7classroom/today-i-learn/blob/main/serverless/lambda-layer.md) - 2021-04-30
+* [Integrating Lambda Layers with the Serverless Framework](https://github.com/JackySo-24x7classroom/today-i-learn/blob/main/serverless/integrating-lambda-layers-serverless-framework.md) - 2021-06-20
 
 ## javascript
 
 * [Learning Javascript - Best practices](https://github.com/JackySo-24x7classroom/today-i-learn/blob/main/javascript/learning-javascript.md) - 2021-04-27
-* [NodeJs Basic learning](https://github.com/JackySo-24x7classroom/today-i-learn/blob/main/javascript/nodejs-basic.md) - 2021-05-26
 * [NodeJs HTTP server - Start and Parsing](https://github.com/JackySo-24x7classroom/today-i-learn/blob/main/javascript/nodejs-http-parsing.md) - 2021-05-26
-* [Nodejs HTTP server - Add routes and return JSON output](https://github.com/JackySo-24x7classroom/today-i-learn/blob/main/javascript/nodejs-http-route-request.md) - 2021-05-27
+* [NodeJs Basic learning](https://github.com/JackySo-24x7classroom/today-i-learn/blob/main/javascript/nodejs-basic.md) - 2021-05-26
 * [Nodejs HTTPS server and Configuration](https://github.com/JackySo-24x7classroom/today-i-learn/blob/main/javascript/nodejs-https-configuration.md) - 2021-05-27
+* [Nodejs HTTP server - Add routes and return JSON output](https://github.com/JackySo-24x7classroom/today-i-learn/blob/main/javascript/nodejs-http-route-request.md) - 2021-05-27
 * [Nodejs - Develop data library for file manipulation](https://github.com/JackySo-24x7classroom/today-i-learn/blob/main/javascript/nodejs-data.md) - 2021-05-27
 * [Nodejs - Add Ping or Healthcheck routes and handlers](https://github.com/JackySo-24x7classroom/today-i-learn/blob/main/javascript/ping-healthcheck.md) - 2021-05-27
 * [Nodejs - HTTP(S) service handlers for (GET, POST, PUT, DELETE) methods](https://github.com/JackySo-24x7classroom/today-i-learn/blob/main/javascript/nodejs-handlers.md) - 2021-05-28
@@ -79,14 +85,8 @@
 * [Nodejs learning - Logging for observability and debugging](https://github.com/JackySo-24x7classroom/today-i-learn/blob/main/javascript/nodejs-logging.md) - 2021-05-31
 * [Nodejs - Add tokens handler for authentication purpose](https://github.com/JackySo-24x7classroom/today-i-learn/blob/main/javascript/nodejs-handler-token.md) - 2021-05-31
 * [Learn Javascript - var Vs let Vs const](https://github.com/JackySo-24x7classroom/today-i-learn/blob/main/javascript/var-let-const.md) - 2021-06-01
-* [Node version manager](https://github.com/JackySo-24x7classroom/today-i-learn/blob/main/javascript/nvm.md) - 2021-06-03
 * [Nodejs - console log with timestamp and time ran](https://github.com/JackySo-24x7classroom/today-i-learn/blob/main/javascript/log-timestamp.md) - 2021-06-03
-
-## serverless
-
-* [Build pillow archive for Lambda use](https://github.com/JackySo-24x7classroom/today-i-learn/blob/main/serverless/pillow.md) - 2021-04-27
-* [Create an AWS Lambda Layer for Python Runtime](https://github.com/JackySo-24x7classroom/today-i-learn/blob/main/serverless/lambda-layer.md) - 2021-04-30
-* [Integrating Lambda Layers with the Serverless Framework](https://github.com/JackySo-24x7classroom/today-i-learn/blob/main/serverless/integrating-lambda-layers-serverless-framework.md) - 2021-06-20
+* [Node version manager](https://github.com/JackySo-24x7classroom/today-i-learn/blob/main/javascript/nvm.md) - 2021-06-03
 
 ## aws
 
@@ -113,7 +113,11 @@
 
 ## docker
 
-* [Build docker of Jupyter Data Science Stack](https://github.com/JackySo-24x7classroom/today-i-learn/blob/main/docker/docker.md) - 2021-06-09
 * [Generate Dockerfile from images](https://github.com/JackySo-24x7classroom/today-i-learn/blob/main/docker/Dockerfile.md) - 2021-06-09
+* [Build docker of Jupyter Data Science Stack](https://github.com/JackySo-24x7classroom/today-i-learn/blob/main/docker/docker.md) - 2021-06-09
 * [Docker scan images](https://github.com/JackySo-24x7classroom/today-i-learn/blob/main/docker/docker-scan.md) - 2021-06-18
+
+## typescript
+
+* [Learn Typescript types](https://github.com/JackySo-24x7classroom/today-i-learn/blob/main/typescript/typescript-type.md) - 2021-07-13
 <!-- index ends -->
