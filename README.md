@@ -120,4 +120,5 @@
 ## typescript
 
 * [Learn Typescript types](https://github.com/JackySo-24x7classroom/today-i-learn/blob/main/typescript/typescript-type.md) - 2021-07-13
+* [Learn Typescript class](https://github.com/JackySo-24x7classroom/today-i-learn/blob/main/typescript/typescript-class.md) - 2021-07-16
 <!-- index ends -->
