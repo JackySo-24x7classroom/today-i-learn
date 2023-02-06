@@ -65,12 +65,6 @@
 * [Golang Unit testing - Basic tests](https://github.com/JackySo-24x7classroom/today-i-learn/blob/main/golang/go-basic-unit-tests.md) - 2021-05-28
 * [Test Driven Development - Golang](https://github.com/JackySo-24x7classroom/today-i-learn/blob/main/golang/go-tdd.md) - 2021-05-29
 
-## serverless
-
-* [Build pillow archive for Lambda use](https://github.com/JackySo-24x7classroom/today-i-learn/blob/main/serverless/pillow.md) - 2021-04-27
-* [Create an AWS Lambda Layer for Python Runtime](https://github.com/JackySo-24x7classroom/today-i-learn/blob/main/serverless/lambda-layer.md) - 2021-04-30
-* [Integrating Lambda Layers with the Serverless Framework](https://github.com/JackySo-24x7classroom/today-i-learn/blob/main/serverless/integrating-lambda-layers-serverless-framework.md) - 2021-06-20
-
 ## javascript
 
 * [Learning Javascript - Best practices](https://github.com/JackySo-24x7classroom/today-i-learn/blob/main/javascript/learning-javascript.md) - 2021-04-27
@@ -78,8 +72,8 @@
 * [NodeJs Basic learning](https://github.com/JackySo-24x7classroom/today-i-learn/blob/main/javascript/nodejs-basic.md) - 2021-05-26
 * [Nodejs HTTPS server and Configuration](https://github.com/JackySo-24x7classroom/today-i-learn/blob/main/javascript/nodejs-https-configuration.md) - 2021-05-27
 * [Nodejs HTTP server - Add routes and return JSON output](https://github.com/JackySo-24x7classroom/today-i-learn/blob/main/javascript/nodejs-http-route-request.md) - 2021-05-27
-* [Nodejs - Develop data library for file manipulation](https://github.com/JackySo-24x7classroom/today-i-learn/blob/main/javascript/nodejs-data.md) - 2021-05-27
 * [Nodejs - Add Ping or Healthcheck routes and handlers](https://github.com/JackySo-24x7classroom/today-i-learn/blob/main/javascript/ping-healthcheck.md) - 2021-05-27
+* [Nodejs - Develop data library for file manipulation](https://github.com/JackySo-24x7classroom/today-i-learn/blob/main/javascript/nodejs-data.md) - 2021-05-27
 * [Nodejs - HTTP(S) service handlers for (GET, POST, PUT, DELETE) methods](https://github.com/JackySo-24x7classroom/today-i-learn/blob/main/javascript/nodejs-handlers.md) - 2021-05-28
 * [Nodejs learning - Connecting to an API](https://github.com/JackySo-24x7classroom/today-i-learn/blob/main/javascript/nodejs-connect-api.md) - 2021-05-30
 * [Nodejs learning - Logging for observability and debugging](https://github.com/JackySo-24x7classroom/today-i-learn/blob/main/javascript/nodejs-logging.md) - 2021-05-31
@@ -88,12 +82,19 @@
 * [Nodejs - console log with timestamp and time ran](https://github.com/JackySo-24x7classroom/today-i-learn/blob/main/javascript/log-timestamp.md) - 2021-06-03
 * [Node version manager](https://github.com/JackySo-24x7classroom/today-i-learn/blob/main/javascript/nvm.md) - 2021-06-03
 
+## serverless
+
+* [Build pillow archive for Lambda use](https://github.com/JackySo-24x7classroom/today-i-learn/blob/main/serverless/pillow.md) - 2021-04-27
+* [Create an AWS Lambda Layer for Python Runtime](https://github.com/JackySo-24x7classroom/today-i-learn/blob/main/serverless/lambda-layer.md) - 2021-04-30
+* [Integrating Lambda Layers with the Serverless Framework](https://github.com/JackySo-24x7classroom/today-i-learn/blob/main/serverless/integrating-lambda-layers-serverless-framework.md) - 2021-06-20
+
 ## aws
 
 * [Getting Started with Amazon Redshift](https://github.com/JackySo-24x7classroom/today-i-learn/blob/main/aws/redshift.md) - 2021-05-06
 * [AWS DocumentDB](https://github.com/JackySo-24x7classroom/today-i-learn/blob/main/aws/documemtdb.md) - 2021-05-28
 * [AWS unified CloudWatch Agent manual installation](https://github.com/JackySo-24x7classroom/today-i-learn/blob/main/aws/unified-cloudwatch-agent.md) - 2021-06-16
 * [Devops journey - AWS ECS study](https://github.com/JackySo-24x7classroom/today-i-learn/blob/main/aws/fargate.md) - 2021-06-21
+* [aws-gate docker](https://github.com/JackySo-24x7classroom/today-i-learn/blob/main/aws/aws-gate-docker.md) - 2023-02-06
 
 ## markdown
 
